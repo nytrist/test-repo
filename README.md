@@ -1,4 +1,4 @@
-firstSetup
+Test Setup
 ==========
 
-First Setup - Data Scientist Course
+Test Setup - Data Scientist Course
